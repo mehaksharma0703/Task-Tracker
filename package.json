@@ -1,6 +1,6 @@
 {
   "name": "react-todo-list",
-  "homepage": "https://mehaksharma0703.github.io/Task-Tracker/",
+  "homepage": "homepage": "https://mehaksharma0703.github.io/Task-Tracker/", 
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -41,5 +41,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
   }
 }
